@@ -46,7 +46,7 @@ The repository includes complete WordPress files along with a database
 
 ## 📂 Project Structure
 
-    Addressbook-WordPress-Elementor/
+    addressbook-wordPress-elementor/
     │
     ├── wp-admin/
     ├── wp-content/
@@ -79,7 +79,7 @@ Place the folder inside:
 
 Example:
 
-    htdocs/Addressbook-WordPress-Elementor
+    htdocs/addressbook-wordPress-elementor
 
 ------------------------------------------------------------------------
 
@@ -116,19 +116,19 @@ Go to the `wp_options` table and update:
 
 Change them to:
 
-    http://localhost/Addressbook-WordPress-Elementor
+    http://localhost/addressbook-wordpress-elementor
 
 Or use WP CLI:
 
 ``` bash
-wp search-replace 'old-domain.com' 'http://localhost/Addressbook-WordPress-Elementor'
+wp search-replace 'old-domain.com' 'http://localhost/addressbook-wordpress-elementor'
 ```
 
 ------------------------------------------------------------------------
 
 ## 🔐 Admin Login (Demo)
 
-    URL: http://localhost/Addressbook-WordPress-Elementor/wp-admin
+    URL: http://localhost/addressbook-wordpress-elementor/wp-admin
     Username: admin@gmail.com
     Password: 123456
 
