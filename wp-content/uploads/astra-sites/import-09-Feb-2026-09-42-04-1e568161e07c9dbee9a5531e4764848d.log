@@ -1,0 +1,157 @@
+
+[10:39:31 UTC] [SUCCESS] {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=4185ab2876"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=f9d211367f"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=surerank&_wpnonce=d6a30c80c3"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=4185ab2876"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=f9d211367f"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=surerank&_wpnonce=d6a30c80c3"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[10:39:31 UTC] [SUCCESS] {"permissions":{"is_readable":true,"is_writable":true,"is_wp_filesystem":true},"directory":"\/var\/www\/html\/differenz\/wp-content\/uploads"} | Context: {"permissions":{"is_readable":true,"is_writable":true,"is_wp_filesystem":true},"directory":"\/var\/www\/html\/differenz\/wp-content\/uploads"}
+[11:23:13 UTC] [SUCCESS] {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=4185ab2876"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=f9d211367f"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=2f93eaf633"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=2b68ef3c09"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=surerank&_wpnonce=d6a30c80c3"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=4185ab2876"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=f9d211367f"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=2f93eaf633"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=2b68ef3c09"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=surerank&_wpnonce=d6a30c80c3"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[11:23:14 UTC] [SUCCESS] {"permissions":{"is_readable":true,"is_writable":true,"is_wp_filesystem":true},"directory":"\/var\/www\/html\/differenz\/wp-content\/uploads"} | Context: {"permissions":{"is_readable":true,"is_writable":true,"is_wp_filesystem":true},"directory":"\/var\/www\/html\/differenz\/wp-content\/uploads"}
+[11:23:46 UTC] [SUCCESS] {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=4185ab2876"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=f9d211367f"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=2f93eaf633"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=2b68ef3c09"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=surerank&_wpnonce=d6a30c80c3"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=4185ab2876"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=f9d211367f"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=2f93eaf633"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=2b68ef3c09"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=surerank&_wpnonce=d6a30c80c3"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[11:31:30 UTC] [INFO] Starting import process | Context: {"template_type":"classic","uuid":""}
+[11:31:30 UTC] [INFO] Started Import Process
+[11:31:30 UTC] [INFO] # System Details: 
+[11:31:30 UTC] [INFO] Debug Mode 		: Disabled
+[11:31:30 UTC] [INFO] Operating System 	: Linux
+[11:31:30 UTC] [INFO] Software 		: Apache/2.4.52 (Ubuntu)
+[11:31:30 UTC] [INFO] MySQL version 		: 8.0.45
+[11:31:30 UTC] [INFO] XML Reader 		: Yes
+[11:31:30 UTC] [INFO] PHP Version 		: 8.2.29
+[11:31:30 UTC] [INFO] PHP Max Input Vars 	: 1000
+[11:31:30 UTC] [INFO] PHP Max Post Size 	: 8M
+[11:31:30 UTC] [INFO] PHP Extension GD 	: No
+[11:31:30 UTC] [INFO] PHP Max Execution Time 	: 30
+[11:31:30 UTC] [INFO] Max Upload Size 	: 2 MB
+[11:31:30 UTC] [INFO] Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+[11:31:30 UTC] [INFO] Timezone 		: 0
+[11:31:30 UTC] [INFO] 
+-----
+
+[11:31:30 UTC] [INFO] Importing Started! - 11:31:30 UTC
+[11:31:30 UTC] [INFO] ---
+
+[11:31:30 UTC] [INFO] WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+[11:31:30 UTC] [INFO] https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+[11:31:30 UTC] [INFO] ---
+
+[11:31:30 UTC] [SUCCESS] Import process start flag set successfully | Context: {"template_type":"classic"}
+[11:31:30 UTC] [INFO] Image subsizes deferral enabled for import
+[11:31:32 UTC] [INFO] Image subsizes deferral enabled for import
+[11:31:34 UTC] [INFO] Image subsizes deferral enabled for import
+[11:31:34 UTC] [INFO] ---
+
+[11:31:34 UTC] [INFO] Starting WP Forms import process
+[11:31:34 UTC] [INFO] info | Context: {"file_url":"https:\/\/websitedemos.net\/wp-content\/uploads\/astra-sites\/977\/wpforms.json","timeout_seconds":300}
+[11:31:35 UTC] [INFO] success | Context: {"file_url":"https:\/\/websitedemos.net\/wp-content\/uploads\/astra-sites\/977\/wpforms.json","file_size":1742,"uploaded_file":"\/var\/www\/html\/differenz\/wp-content\/uploads\/2026\/02\/wpforms.json"}
+[11:31:35 UTC] [SUCCESS] File downloaded successfully from: https://websitedemos.net/wp-content/uploads/astra-sites/977/wpforms.json
+[11:31:35 UTC] [INFO] Checking if WPForms is already loaded
+[11:31:35 UTC] [ERROR] WPForms import failed: Plugin files not found. Please ensure WPForms is properly installed.
+[11:31:37 UTC] [INFO] Image subsizes deferral enabled for import
+[11:31:37 UTC] [INFO] ---
+
+[11:31:37 UTC] [INFO] Starting WP Forms import process
+[11:31:37 UTC] [INFO] info | Context: {"file_url":"https:\/\/websitedemos.net\/wp-content\/uploads\/astra-sites\/977\/wpforms.json","timeout_seconds":300}
+[11:31:38 UTC] [INFO] success | Context: {"file_url":"https:\/\/websitedemos.net\/wp-content\/uploads\/astra-sites\/977\/wpforms.json","file_size":1742,"uploaded_file":"\/var\/www\/html\/differenz\/wp-content\/uploads\/2026\/02\/wpforms-1.json"}
+[11:31:38 UTC] [SUCCESS] File downloaded successfully from: https://websitedemos.net/wp-content/uploads/astra-sites/977/wpforms.json
+[11:31:38 UTC] [INFO] Checking if WPForms is already loaded
+[11:31:38 UTC] [ERROR] WPForms import failed: Plugin files not found. Please ensure WPForms is properly installed.
+[11:31:38 UTC] [INFO] Image subsizes deferral enabled for import
+[11:31:49 UTC] [INFO] Image subsizes deferral enabled for import
+[11:31:54 UTC] [INFO] Image subsizes deferral enabled for import
+[11:31:54 UTC] [INFO] Image subsizes deferral enabled for import
+[11:31:54 UTC] [INFO] Starting import process | Context: {"template_type":"classic","uuid":""}
+[11:31:54 UTC] [INFO] Started Import Process
+[11:31:54 UTC] [INFO] # System Details: 
+[11:31:54 UTC] [INFO] Debug Mode 		: Disabled
+[11:31:54 UTC] [INFO] Operating System 	: Linux
+[11:31:54 UTC] [INFO] Software 		: Apache/2.4.52 (Ubuntu)
+[11:31:54 UTC] [INFO] MySQL version 		: 8.0.45
+[11:31:54 UTC] [INFO] XML Reader 		: Yes
+[11:31:54 UTC] [INFO] PHP Version 		: 8.2.29
+[11:31:54 UTC] [INFO] PHP Max Input Vars 	: 1000
+[11:31:54 UTC] [INFO] PHP Max Post Size 	: 8M
+[11:31:54 UTC] [INFO] PHP Extension GD 	: No
+[11:31:54 UTC] [INFO] PHP Max Execution Time 	: 30
+[11:31:54 UTC] [INFO] Max Upload Size 	: 2 MB
+[11:31:54 UTC] [INFO] Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+[11:31:54 UTC] [INFO] Timezone 		: 0
+[11:31:54 UTC] [INFO] 
+-----
+
+[11:31:54 UTC] [INFO] Importing Started! - 11:31:54 UTC
+[11:31:54 UTC] [INFO] ---
+
+[11:31:54 UTC] [INFO] WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+[11:31:54 UTC] [INFO] https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+[11:31:54 UTC] [INFO] ---
+
+[11:31:54 UTC] [SUCCESS] Import process start flag set successfully | Context: {"template_type":"classic"}
+[11:31:55 UTC] [INFO] Image subsizes deferral enabled for import
+[11:31:55 UTC] [INFO] Image subsizes deferral enabled for import
+[11:31:55 UTC] [SUCCESS] {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=4185ab2876"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=f9d211367f"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=2f93eaf633"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=2b68ef3c09"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=surerank&_wpnonce=d6a30c80c3"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=4185ab2876"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=f9d211367f"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=2f93eaf633"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=2b68ef3c09"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=surerank&_wpnonce=d6a30c80c3"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[11:31:57 UTC] [INFO] Image subsizes deferral enabled for import
+[11:31:58 UTC] [INFO] Image subsizes deferral enabled for import
+[11:31:58 UTC] [INFO] ---
+
+[11:31:58 UTC] [INFO] Starting WP Forms import process
+[11:31:58 UTC] [INFO] info | Context: {"file_url":"https:\/\/websitedemos.net\/wp-content\/uploads\/astra-sites\/977\/wpforms.json","timeout_seconds":300}
+[11:31:59 UTC] [INFO] success | Context: {"file_url":"https:\/\/websitedemos.net\/wp-content\/uploads\/astra-sites\/977\/wpforms.json","file_size":1742,"uploaded_file":"\/var\/www\/html\/differenz\/wp-content\/uploads\/2026\/02\/wpforms-2.json"}
+[11:31:59 UTC] [SUCCESS] File downloaded successfully from: https://websitedemos.net/wp-content/uploads/astra-sites/977/wpforms.json
+[11:31:59 UTC] [INFO] Checking if WPForms is already loaded
+[11:31:59 UTC] [ERROR] WPForms import failed: Plugin files not found. Please ensure WPForms is properly installed.
+[11:32:01 UTC] [INFO] Image subsizes deferral enabled for import
+[11:32:01 UTC] [INFO] ---
+
+[11:32:01 UTC] [INFO] Starting WP Forms import process
+[11:32:01 UTC] [INFO] info | Context: {"file_url":"https:\/\/websitedemos.net\/wp-content\/uploads\/astra-sites\/977\/wpforms.json","timeout_seconds":300}
+[11:32:01 UTC] [INFO] success | Context: {"file_url":"https:\/\/websitedemos.net\/wp-content\/uploads\/astra-sites\/977\/wpforms.json","file_size":1742,"uploaded_file":"\/var\/www\/html\/differenz\/wp-content\/uploads\/2026\/02\/wpforms-3.json"}
+[11:32:01 UTC] [SUCCESS] File downloaded successfully from: https://websitedemos.net/wp-content/uploads/astra-sites/977/wpforms.json
+[11:32:01 UTC] [INFO] Checking if WPForms is already loaded
+[11:32:01 UTC] [ERROR] WPForms import failed: Plugin files not found. Please ensure WPForms is properly installed.
+[11:32:01 UTC] [INFO] Image subsizes deferral enabled for import
+[11:32:10 UTC] [INFO] Image subsizes deferral enabled for import
+[11:32:13 UTC] [INFO] Image subsizes deferral enabled for import
+[11:32:13 UTC] [INFO] Image subsizes deferral enabled for import
+[11:32:13 UTC] [SUCCESS] {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=4185ab2876"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=f9d211367f"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=2f93eaf633"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=2b68ef3c09"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=surerank&_wpnonce=d6a30c80c3"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=4185ab2876"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=f9d211367f"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=2f93eaf633"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=2b68ef3c09"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=surerank&_wpnonce=d6a30c80c3"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[11:32:15 UTC] [INFO] Image subsizes deferral enabled for import
+[11:32:16 UTC] [INFO] Image subsizes deferral enabled for import
+[11:32:16 UTC] [INFO] ---
+
+[11:32:16 UTC] [INFO] Starting WP Forms import process
+[11:32:16 UTC] [INFO] info | Context: {"file_url":"https:\/\/websitedemos.net\/wp-content\/uploads\/astra-sites\/977\/wpforms.json","timeout_seconds":300}
+[11:32:16 UTC] [INFO] success | Context: {"file_url":"https:\/\/websitedemos.net\/wp-content\/uploads\/astra-sites\/977\/wpforms.json","file_size":1742,"uploaded_file":"\/var\/www\/html\/differenz\/wp-content\/uploads\/2026\/02\/wpforms-4.json"}
+[11:32:16 UTC] [SUCCESS] File downloaded successfully from: https://websitedemos.net/wp-content/uploads/astra-sites/977/wpforms.json
+[11:32:16 UTC] [INFO] Checking if WPForms is already loaded
+[11:32:16 UTC] [ERROR] WPForms import failed: Plugin files not found. Please ensure WPForms is properly installed.
+[11:32:18 UTC] [INFO] Image subsizes deferral enabled for import
+[11:32:18 UTC] [INFO] ---
+
+[11:32:18 UTC] [INFO] Starting WP Forms import process
+[11:32:18 UTC] [INFO] info | Context: {"file_url":"https:\/\/websitedemos.net\/wp-content\/uploads\/astra-sites\/977\/wpforms.json","timeout_seconds":300}
+[11:32:19 UTC] [INFO] success | Context: {"file_url":"https:\/\/websitedemos.net\/wp-content\/uploads\/astra-sites\/977\/wpforms.json","file_size":1742,"uploaded_file":"\/var\/www\/html\/differenz\/wp-content\/uploads\/2026\/02\/wpforms-5.json"}
+[11:32:19 UTC] [SUCCESS] File downloaded successfully from: https://websitedemos.net/wp-content/uploads/astra-sites/977/wpforms.json
+[11:32:19 UTC] [INFO] Checking if WPForms is already loaded
+[11:32:19 UTC] [ERROR] WPForms import failed: Plugin files not found. Please ensure WPForms is properly installed.
+[11:32:19 UTC] [INFO] Image subsizes deferral enabled for import
+[11:32:23 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:24 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:26 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:31 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:34 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:38 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:41 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:42 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:44 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:44 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:44 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:56 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:56 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:57 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:57 UTC] [SUCCESS] {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=4185ab2876"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=f9d211367f"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=2f93eaf633"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=2b68ef3c09"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=4185ab2876"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=f9d211367f"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=2f93eaf633"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=2b68ef3c09"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[11:33:57 UTC] [INFO] Image subsizes deferral enabled for import
+[11:33:57 UTC] [SUCCESS] {"permissions":{"is_readable":true,"is_writable":true,"is_wp_filesystem":true},"directory":"\/var\/www\/html\/differenz\/wp-content\/uploads"} | Context: {"permissions":{"is_readable":true,"is_writable":true,"is_wp_filesystem":true},"directory":"\/var\/www\/html\/differenz\/wp-content\/uploads"}
+[11:33:58 UTC] [INFO] Image subsizes deferral enabled for import
+[11:34:01 UTC] [INFO] Image subsizes deferral enabled for import
+[11:34:01 UTC] [SUCCESS] {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=4185ab2876"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=f9d211367f"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=2f93eaf633"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=2b68ef3c09"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=surerank&_wpnonce=d6a30c80c3"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[],"inactive":[],"notinstalled":[{"slug":"elementor","init":"elementor\/elementor.php","name":"Elementor","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=elementor&_wpnonce=4185ab2876"},{"slug":"wpforms-lite","init":"wpforms-lite\/wpforms.php","name":"WPForms Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=wpforms-lite&_wpnonce=f9d211367f"},{"slug":"header-footer-elementor","init":"header-footer-elementor\/header-footer-elementor.php","name":"Ultimate Addons for Elementor Lite","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=header-footer-elementor&_wpnonce=2f93eaf633"},{"slug":"sureforms","init":"sureforms\/sureforms.php","name":"SureForms","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=2b68ef3c09"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/192.168.1.110\/differenz\/wp-admin\/update.php?action=install-plugin&plugin=surerank&_wpnonce=d6a30c80c3"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[11:34:40 UTC] [INFO] Image subsizes deferral enabled for import
+[11:34:41 UTC] [INFO] Image subsizes deferral enabled for import
+[11:34:42 UTC] [INFO] Image subsizes deferral enabled for import
+[11:34:43 UTC] [INFO] Import process completed. Cleaning up log file option.
