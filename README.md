@@ -1,4 +1,4 @@
-# 🏗 Addressbook-WordPress-Elementor
+# Addressbook-WordPress-Elementor
 
 ### WordPress + Elementor Demo Project
 
@@ -6,7 +6,7 @@
 
 This repository contains **Address Book** application for WordPress with Elementor that shows design & coding practices followed by **[Differenz System](http://www.differenzsystem.com/)**.
 
-This project is a fully functional **Construction Company Website**
+This project is a fully functional **Elementor Website**
 built using **WordPress** and **Elementor Page Builder**.
 
 It demonstrates how to create a modern, responsive, and professional
@@ -20,7 +20,7 @@ The repository includes complete WordPress files along with a database
 
 ## 🚀 Features
 
--   Modern Construction Company Layout
+-   Modern Design Layout
 -   Built with Elementor Page Builder
 -   Fully Responsive Design
 -   Services Section
@@ -79,7 +79,7 @@ Place the folder inside:
 
 Example:
 
-    htdocs/construction-company
+    htdocs/Addressbook-WordPress-Elementor
 
 ------------------------------------------------------------------------
 
