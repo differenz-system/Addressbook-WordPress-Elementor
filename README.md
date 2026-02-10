@@ -46,7 +46,7 @@ The repository includes complete WordPress files along with a database
 
 ## 📂 Project Structure
 
-    addressbook-wordPress-elementor/
+    addressbook-wordpress-elementor/
     │
     ├── wp-admin/
     ├── wp-content/
@@ -79,7 +79,7 @@ Place the folder inside:
 
 Example:
 
-    htdocs/addressbook-wordPress-elementor
+    htdocs/addressbook-wordpress-elementor
 
 ------------------------------------------------------------------------
 
